@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "ReactDemoApp": "enlitedemo",
+    "enlitedemo": "enlitedemo",
+    "default": "enlitedemo"
+  }
+}
